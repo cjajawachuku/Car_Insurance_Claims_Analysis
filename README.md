@@ -21,7 +21,7 @@ This report comprehensively explores car insurance claim data to uncover valuabl
 
 <img width="584" alt="Dashboard" src="https://github.com/cjajawachuku/Car_Insurance_Claims_Analysis/assets/75726348/48e50f2b-c1fa-41d3-95d8-e4524a220688">
 
-*DashBoard* [View Full Dashboard](https://link-url-here.org)
+*DashBoard* [View Full Dashboard](https://github.com/cjajawachuku/Car_Insurance_Claims_Analysis/blob/main/Dashboard.pdf)
 
 <img width="862" alt="Raw Dataset" src="https://github.com/cjajawachuku/Car_Insurance_Claims_Analysis/assets/75726348/eeafbd1c-6ef4-41c7-8f2d-11e11fa2eb94">
 
